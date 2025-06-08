@@ -1,0 +1,16 @@
+Journaling App Help
+--------------------
+
+To start, enter in your terminal:
+> python3 main.py
+
+Main Features:
+- Register/Login to keep entries private
+- Start journaling from main menu
+- Choose different entry types: feelings, thoughts, goals, wins
+- Save each entry with a timestamp
+- View past entries by type or keyword
+
+Troubleshooting:
+- Make sure dependencies are installed: pip install -r requirements.txt
+- Data is stored in /data/journal_entries.json
