@@ -14,8 +14,8 @@ A terminal-based journaling application to support emotional awareness, self-ref
 ### 1. Clone the repository:
 In your terminal enter:
 ```bash
-git clone 
-cd journaling_app
+git clone git@github.com:quinnsm97/reflective-journal-cli-app.git
+cd reflective_journal_app
 ```
 
 ### 2. Create and activate a virtual environment:
